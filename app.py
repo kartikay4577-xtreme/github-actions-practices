@@ -1,5 +1,5 @@
-#Flask file
-#This code is from https://github.com/TrainWithShubham/github-actions-zero-to-hero/blob/main/app.py
+#This code is from  https://github.com/TrainWithShubham/github-actions-zero-to-hero
+#Flask app
 from flask import Flask, render_template
 app = Flask(__name__)
 
