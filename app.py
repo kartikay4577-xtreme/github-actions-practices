@@ -1,5 +1,6 @@
 #This code is from  https://github.com/TrainWithShubham/github-actions-zero-to-hero
 #Flask App
+#Trying linting on this
 from flask import Flask, render_template
 app = Flask(__name__)
 
